@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+#header_wrap {
+  background: transparent;
+}
+
+#footer_wrap {
+  background: transparent;
+}
+
+body {
+  background: #000 url("https://cilogon.org/images/xsede-background.jpg") no-repeat top center;
+  color: transparent;
+
+}
+
+p {
+  color: #222222;
+}
